@@ -1,4 +1,4 @@
 ## bruh
-i like making discord bots for private use
+i like making random stuff for my own self
 
 most of my projects are private for now
