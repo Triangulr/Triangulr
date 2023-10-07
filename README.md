@@ -1,10 +1,8 @@
-<h3 align="center">A full stack developer still learning about</h3>
+<h1>Hi! 👋</h1>
 
-<p align="left"> <a href="https://twitter.com/_triangulr" target="blank"><img src="https://img.shields.io/twitter/follow/_triangulr?logo=twitter&style=for-the-badge" alt="_triangulr" /></a> </p>
+- 🌱 Still learning about frontend and backend stuff
 
-- 🌱 I’m currently learning **React and Flutter**
-
-- 📫 How to reach me **hello@axesys.xyz**
+- 📫 Reach me at **hello@axesys.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
