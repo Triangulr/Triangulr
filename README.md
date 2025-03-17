@@ -2,7 +2,7 @@
 
 - 🌱 Still learning about frontend and backend stuff
 
-- 🔗 You can find more of my projects [here](https://github-readme-stats.vercel.app)
+- 🔗 You can find more of my projects [here](https://github.com/orgs/Zexsys-Productions/repositories)
 
 - 📫 Reach me at **hello@axesys.xyz**
 
