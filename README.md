@@ -2,6 +2,8 @@
 
 - 🌱 Still learning about frontend and backend stuff
 
+- 🔗 You can find more of my projects [here](https://github-readme-stats.vercel.app)
+
 - 📫 Reach me at **hello@axesys.xyz**
 
 <h3 align="left">Connect with me:</h3>
